@@ -6,8 +6,8 @@ Oi Oi :)
 
 <div align="center">
   <a href="https://github.com/RaquelFBatista">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RaquelFBatista&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFBatista&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaquelFBatista&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelFBatista&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  
   ##
