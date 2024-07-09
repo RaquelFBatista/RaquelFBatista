@@ -2,7 +2,7 @@ Oi Oi :)
 
 - 🌱 Hoje trabalho com Vendas, sou advogada e estou iniciando na T.I  :) 
 - 💬 Estou iniciando meus estudos com Desenvolvimento Web e Lógica da programação/algorítmos.
-- 📚 Inicio Graduação - Análise e Desenvolvimento de Sistemas 01/2022 
+- 📚 Inicio Graduação - Análise e Desenvolvimento de Sistemas
 - ⚡ Fun fact: precisei me tornar advogada para entender que meu amor pela tecnologia vai muito além de um hobbie. 
 
 <div align="center">
