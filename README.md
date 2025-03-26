@@ -1,7 +1,7 @@
 Oi Oi :)
 
 - 🌱 Sou estagiária em TI em uma startup em Brasília/DF :) 
-- 📚 2º Semestre - Análise e Desenvolvimento de Sistemas
+- 📚 IFB - Desenvolvimento e sistemas
 - ⚡ Fun fact: precisei me tornar advogada para entender que meu amor pela tecnologia vai muito além de um hobbie. 
 
 <div align="center">
