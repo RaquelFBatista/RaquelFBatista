@@ -1,7 +1,7 @@
 Oi Oi :)
 
-- 🌱 Sou estagiária em TI em uma startup em Brasília/DF :) 
-- 📚 IFB - Desenvolvimento e sistemas
+- 🌱 Sou estagiária em Engenharia de Dados em uma startup em Brasília/DF :) 
+- 📚 IFB - Desenvolvimento e sistemas - Gran Faculdade - Gestão de TI
 - ⚡ Fun fact: precisei me tornar advogada para entender que meu amor pela tecnologia vai muito além de um hobbie. 
 
 <div align="center">
