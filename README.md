@@ -1,9 +1,5 @@
 Oi Oi :)
 
-- 🌱 Sou estagiária em Engenharia de Dados em uma startup em Brasília/DF :) 
-- 📚 IFB - Desenvolvimento e sistemas - Gran Faculdade - Gestão de TI
-- ⚡ Fun fact: precisei me tornar advogada para entender que meu amor pela tecnologia vai muito além de um hobbie. 
-
 <div align="center">
   <a href="https://github.com/RaquelFBatista">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RaquelFBatista&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
